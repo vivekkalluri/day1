@@ -1,0 +1,43 @@
+*{
+    width:100%;
+    
+}
+.top{
+    width:40%;
+    height:50px;
+    background-color:red;
+    position: absolute;
+    left:0;
+    top:0;
+
+}
+.right{
+    width:40%;
+    height:50px;
+    background-color:blue;
+    position:absolute;
+    right:0;
+    top:0;
+   
+}
+.left{
+    width:40%;
+    height:50px;
+    background-color:green;
+    position: absolute;
+    left:0;
+    bottom:0;
+   
+   
+ 
+}
+.bottom{
+    width:40%;
+    height:50px;
+    background-color:orange;
+    position: absolute;
+    right:0;
+    bottom:0;
+    
+    
+}

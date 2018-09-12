@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:70%;
+    height:70px;
+    
+  
+}
+
+.diva{
+    width:15%;
+    height:100px;
+    border: 1px solid red;
+    background-color:red;
+    float:left;
+   
+}
+.divb{
+    width:15%;
+    height:100px;
+    border: 1px solid grey;
+    background-color:grey;
+    float:left;
+    
+}
+.divc{
+    width:15%;
+    height:100px;
+    border: 1px solid red;
+    background-color:red;
+    float:left;
+    
+}
+.divd{
+    width:15%;
+    height:100px;
+    border: 1px solid grey;
+    background-color:grey;
+    float:left;
+}
+.dive{
+    width:15%;
+    height:100px;
+    border: 1px solid red;
+    background-color:red;
+    float:left;
+}
+.divf
+{
+    width:10%;
+    height:100px;
+    border: 1px solid grey;
+    background-color:grey;
+    float:left;
+}
+.divg
+{
+    width:10%;
+    height:100px;
+    border: 1px solid red;
+    background-color:red;
+    float:left;
+}

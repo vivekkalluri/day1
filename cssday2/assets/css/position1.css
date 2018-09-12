@@ -1,0 +1,31 @@
+*{
+    width:100%;
+}
+
+
+
+
+.red{
+    height:50px;
+    width:25%;
+    background-color:red;
+    
+    
+    
+    
+}
+.blue{
+    height:50px;
+    width:25%;
+    background-color:blue;
+    float:left;
+    
+    
+}
+.green{
+    height:50px;
+    width:25%;
+    background-color:green;
+    float:left;
+    
+}

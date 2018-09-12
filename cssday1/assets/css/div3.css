@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    width:70%;
+    height:30px;
+  
+}
+
+.one{
+    width:30%;
+    height:50px;
+    border: 1px solid black;
+    background-color:grey;
+    float:left;
+   
+}
+.two{
+    width:30%;
+    height:50px;
+    border: 1px solid red;
+    background-color:black;
+    float:left;
+    
+}
+.three{
+    width:30%;
+    height:50px;
+    border: 1px solid green;
+    background-color:red;
+    float:left;
+    
+}
